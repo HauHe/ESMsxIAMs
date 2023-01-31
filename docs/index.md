@@ -5,7 +5,7 @@ The plots are sorted into the following categories:
 
 * [Emissions](emissions.md)
 * [Demands](demands.md)
-* [Primary Energy]()
-* [Electricity Supply]()
-* [Heat]()
-* [Hydrogen]()
+* [Primary Energy](primary_energy.md)
+* [Electricity Supply](electricity_supply.md)
+* [Heat](heat.md)
+* [Hydrogen](hydrogen.md)
