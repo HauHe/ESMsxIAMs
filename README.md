@@ -1,6 +1,7 @@
 # ESMsxIAMs
 
 [![DOI](https://zenodo.org/badge/595633002.svg)](https://zenodo.org/badge/latestdoi/595633002)
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 This repository contains the scripts to generate the plots underlying the analysis conducted in the journal article *"The mutual benefits of comparing Energy System Models and Integrated Assessment Models"*.
